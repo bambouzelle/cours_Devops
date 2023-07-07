@@ -7,6 +7,5 @@ describe("Checking if the user is created correctly", function () {
        debugger
        var tom = new User("tom");
        tom.name.should.be.equal("tommy");
-       //tom.name.should.be.equal("tom");
    });
 });
