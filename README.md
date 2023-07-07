@@ -1,1 +1,1 @@
-# cours_Devops
+[![Build Status](https://app.travis-ci.com/bambouzelle/cours_Devops.svg?branch=master)](https://app.travis-ci.com/bambouzelle/cours_Devops)
